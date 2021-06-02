@@ -28,10 +28,18 @@ form {
   gap: 1rem;
   margin-top: 2rem;
 }
+
+label {
+  align-items: center;
+  display: flex;
+}
+
+
 .form-group label {
   margin-top: 1rem;
   margin-bottom: -0.4rem;
 }
+
 input {
   height: 2rem;
   border-radius: 5px;
@@ -62,7 +70,3 @@ button {
   text-transform: capitalize;
 }
 
-label {
-  align-items: center;
-  display: flex;
-}
