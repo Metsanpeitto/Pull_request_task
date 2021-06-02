@@ -1,0 +1,23 @@
+{
+  "name": "pull_request_task",
+  "version": "1.0.0",
+  "description": "![Alt text](img/screenshot.png?raw=true \"Optional Title\")",
+  "main": "index.js",
+  "dependencies": {
+    "hint": "^6.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metsanpeitto/Pull_request_task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metsanpeitto/Pull_request_task/issues"
+  },
+  "homepage": "https://github.com/Metsanpeitto/Pull_request_task#readme"
+}
