@@ -34,7 +34,6 @@ label {
   display: flex;
 }
 
-
 .form-group label {
   margin-top: 1rem;
   margin-bottom: -0.4rem;
@@ -69,4 +68,3 @@ button {
   font-size: 18px;
   text-transform: capitalize;
 }
-
