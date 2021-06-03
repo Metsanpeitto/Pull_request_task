@@ -3,6 +3,7 @@
 ![Alt text](img/screenshot.png?raw=true "Optional Title")
 
 This is a project that I built as test to get accepted into Microverse.
+The main goal of this project is to perform a code review for yourself on a past project. So you get used to the process of code review and pull requests.
 =======
 
 
